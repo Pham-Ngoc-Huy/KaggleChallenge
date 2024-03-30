@@ -1,0 +1,7 @@
+git tutorial 
+
+$ git add .
+
+$ git commit -m"ten qq gi cung dc"
+
+$ git push origin master
